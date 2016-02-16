@@ -4,6 +4,7 @@
   "description": "A Telegram bot to generate strings you can use to name projects, containers, servers and your pet fish.",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
