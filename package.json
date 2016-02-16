@@ -1,0 +1,29 @@
+{
+  "name": "name-generator-telegram-bot",
+  "version": "0.0.1",
+  "description": "A Telegram bot to generate strings you can use to name projects, containers, servers and your pet fish.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/imjacobclark/name-generator-telegram-bot.git"
+  },
+  "keywords": [
+    "name",
+    "generator",
+    "telegram",
+    "bot"
+  ],
+  "author": "Jacob Clark",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imjacobclark/name-generator-telegram-bot/issues"
+  },
+  "homepage": "https://github.com/imjacobclark/name-generator-telegram-bot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.20.1",
+    "request": "^2.69.0"
+  }
+}
